@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deniz Parlar</h1>
+<h1 align="center">Deniz Parlar</h1>
 <h3 align="center">Junior Back-end Developer</h3>
 
 - 🌱 I’m currently learning **Java Spring**
