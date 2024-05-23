@@ -1,9 +1,6 @@
 <h1 align="center">Deniz Parlar</h1>
 <h3 align="center">Software Developer</h3>
 
-
-- 🌱 I’m currently learning **Java Spring**
-
 - 📫 How to reach me **dparlar23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
